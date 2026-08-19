@@ -19,7 +19,7 @@ array-multiplier-vhdl/
 
 ## Documentation
 
-Full report with theory, VHDL walkthrough, simulation results, and synthesis/power analysis: [docs/project-report.docx](docs/project-report1.docx)
+Full report with theory, VHDL walkthrough, simulation results, and synthesis/power analysis: [docs/project-report.docx](docs/project-report1.pdf)
 
 ## How it works
 
